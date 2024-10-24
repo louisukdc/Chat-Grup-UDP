@@ -4,7 +4,7 @@ Aplikasi ini adalah implementasi chat grup sederhana menggunakan protokol UDP de
 # Menjalankan Server
 1. Clone repository dan masuk ke direktori server
 2. Copy code
-3. git clone https://github.com/your-username/udp-chat-app.git
+3. git clone https://github.com/louisukdc/Chat-Grup-UDP.git
 4. cd udp-chat-app/server
 
 # Jalankan server:
